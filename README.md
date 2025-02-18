@@ -10,7 +10,7 @@
 
 ---
 
-I'm a Master's Degree student in Artificial Intelligence at University of Naples "Federico II". In my free time I like to watch movies and listen to relaxing music.
+I'm a Research Fellow in Artificial Intelligence at University of Naples "Federico II". In my free time I like to watch movies and listen to relaxing music.
 
 ---
 ### Technologies & Tools:
